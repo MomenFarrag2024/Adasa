@@ -32,7 +32,7 @@ useEffect(() => {
           <Link to="/" className="flex items-center gap-3 group">
             <div className="relative w-12 h-12 rounded-xl overflow-hidden group-hover:scale-105 transition-all duration-300">
               <img
-                src="/public/icon.png"
+                src="../../../public/icon.png"
                 alt="Photography Logo"
                 className="w-full h-full object-cover"
               />
